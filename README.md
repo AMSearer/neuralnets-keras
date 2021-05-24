@@ -1,5 +1,8 @@
 # Neural Networks w/ Keras and Tensorflow
 
+This was an assigmnet from the AI & ML course I took.  
+Using Keras, we created and trained a network to classify wines into categories based on numeric characteristics.
+
 ## Introduction
 
 In this assignment, you will be using Keras, 
